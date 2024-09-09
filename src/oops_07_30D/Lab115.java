@@ -1,4 +1,4 @@
-package src.oops_07_30;
+package src.oops_07_30D;
 public class Lab115 {
     public static void main(String[] args) {
         System.out.println(args[0]);

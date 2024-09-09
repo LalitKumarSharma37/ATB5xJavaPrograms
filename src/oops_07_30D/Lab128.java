@@ -1,5 +1,5 @@
-package src.oops_07_30;
-import java.util.Scanner;
+package src.oops_07_30D;
+
 public class Lab128 {
     public static void main(String[] args) {
 

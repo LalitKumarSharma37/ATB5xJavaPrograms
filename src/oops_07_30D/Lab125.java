@@ -1,5 +1,5 @@
-package src.oops_07_30;
-import java.util.Scanner;
+package src.oops_07_30D;
+
 public class Lab125 {
     public static void main(String[] args) {
         int[][] array_2d = new int[3][3];

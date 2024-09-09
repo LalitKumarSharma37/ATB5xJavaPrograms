@@ -1,4 +1,4 @@
-package src.oops_07_30;
+package src.oops_07_30D;
 
 public class Lab120 {
     public static void main(String[] args) {

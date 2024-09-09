@@ -1,4 +1,4 @@
-package src.oops_07_30;
+package src.oops_07_30D;
 
 import java.util.Scanner;
 

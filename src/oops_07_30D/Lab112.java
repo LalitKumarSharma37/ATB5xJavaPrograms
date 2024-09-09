@@ -1,6 +1,4 @@
-package src.oops_07_30;
-
-import java.sql.SQLOutput;
+package src.oops_07_30D;
 
 public class Lab112 {
     public static void main(String[] args) {
