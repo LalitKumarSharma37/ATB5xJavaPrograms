@@ -1,4 +1,4 @@
-package src.oops_07_01.Inheritance;
+package src.oops_07_J.Inheritance;
 
 public class Programming { //Parent Class
 

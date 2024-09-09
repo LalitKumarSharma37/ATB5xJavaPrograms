@@ -1,4 +1,4 @@
-package src.oops_07_01.Inheritance.hierarchical;
+package src.oops_07_J.Inheritance.hierarchical;
 
 public class Lab149 {
     public static void main(String[] args) {
